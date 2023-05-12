@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "dev-geekify-public",
+    "geekify-public": "geekify-public"
+  }
+}
